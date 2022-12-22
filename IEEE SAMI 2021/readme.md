@@ -3,7 +3,5 @@ Laparoscopic Surgical Box-Trainer devices have been used by surgery residents to
 Sources:
 
 1. https://ieeexplore.ieee.org/abstract/document/9378617
-
 2. https://detecto.readthedocs.io/en/latest/
-
 3. https://github.com/alankbi/detecto
